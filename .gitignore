@@ -1,0 +1,33 @@
+# Local Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Generated datasets and runtime files
+data/generated/
+data/local/
+outputs/
+logs/
+*.log
+
+# dbt generated files and local credentials
+target/
+dbt_packages/
+profiles.yml
+
+# Local editor and OS files
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store
