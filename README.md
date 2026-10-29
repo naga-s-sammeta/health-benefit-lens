@@ -13,10 +13,6 @@ Day-one project scaffold. The scope, business rules, architecture, and expected
 demo results are documented. Application code, databases, authentication, and
 dashboards have not been implemented yet.
 
-## Start Here
-
-Read [the day-one guide](docs/day-1.md), then work through the three-member
-example. Its expected results will become our first automated tests.
 
 ## Business Questions
 
@@ -53,11 +49,6 @@ example. Its expected results will become our first automated tests.
 - [Day 1: datasets, metrics, and expected results](docs/day-1.md)
 - [Architecture and implementation boundaries](docs/architecture.md)
 
-## Portfolio Delivery
-
-The first release will run locally with reproducible synthetic data. The GitHub
-README and portfolio will link a 3-5 minute recorded demonstration. Paid cloud
-hosting is optional.
 
 ## Data and Compliance Scope
 
